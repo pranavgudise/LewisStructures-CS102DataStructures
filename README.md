@@ -7,4 +7,5 @@ Make a circle chart (Lewis Structure) similar to a chemical compound chart, that
 4) Print - print all letters, in any order. You must traverse the tree to make your list. Do not keep a separate node list in your class. You can traverse the tree recursively. Assume no cycles - An example of a cycle would be if A connected to K in the attached chart examples.
 5)  Extra credit (3 points)  if you can actually show the letters in a Lewis Structure format with lines between the elements instead of  arrows, and not the  circles you may see on the attached chart.
 --You can use the sourcecode jar files classes to help you build a linked list. Basically you need to add more pointers  in the node class within DLL class to accommodate the up, down, nature of this problem.
+
 For more information, see the attached pptx.
